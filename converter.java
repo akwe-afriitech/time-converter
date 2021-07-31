@@ -6,6 +6,6 @@ public class Program {
     
     int days = scanner.nextInt();
     long seconds = days * 24 * 60 * 60;
-    System.out.println( seconds);
+    System.out.println( seconds " seconds ");
   }
 }
